@@ -1,0 +1,33 @@
+.button-Click-emoji {
+  background-color: transparent;
+  border: none;
+}
+
+.list-emoji {
+  background-color: #ffffff30;
+  border: 3px solid #ffffff30;
+  width: 100px;
+  margin: 5px;
+  padding: 20px;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+}
+
+@media screen and (min-width: 768px) {
+  .list-emoji {
+    width: 150px;
+  }
+}
+
+.emoji-image {
+  width: 70px;
+}
+
+@media screen and (min-width: 768px) {
+  .emoji-image {
+    width: 140px;
+  }
+}

@@ -1,0 +1,51 @@
+.container-bg-win {
+  background-color: #ffffff33;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #ffffff33;
+  padding: 30px;
+  width: 35%;
+}
+
+.score-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.emoji-image-game {
+  width: 230px;
+}
+
+.you-loss-won {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 40px;
+}
+
+.score-won-loss {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+
+.your-Score {
+  color: #6a59ff;
+  font-family: 'Roboto';
+  font-weight: 900;
+  font-size: 30px;
+}
+.play-again {
+  color: #3d3d3d;
+  background-color: #ffce27;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 10px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}

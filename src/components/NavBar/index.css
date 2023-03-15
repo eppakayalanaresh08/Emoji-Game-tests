@@ -1,0 +1,41 @@
+.nav-container {
+  background-color: #ffffff33;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-items-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 78%;
+}
+
+.list-image-container {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+
+.Emoji-heading {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.list-score-container {
+  display: flex;
+}
+
+.score {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin-right: 20px;
+}
+
+.top-score {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
